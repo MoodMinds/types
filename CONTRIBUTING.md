@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Types!
+Thank you for your interest in contributing to **Types**!
 
 **Project Status: Experimental and Under Development**
 
