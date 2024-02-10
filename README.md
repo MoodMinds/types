@@ -22,7 +22,6 @@ The main objectives of the **Types** are:
 
 ```java
 import org.moodminds.type.*;
-import org.type.*;
 
 import java.util.List;
 import java.util.function.BiFunction;
